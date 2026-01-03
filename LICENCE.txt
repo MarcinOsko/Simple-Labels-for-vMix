@@ -82,5 +82,5 @@ For purposes of facilitating transfers of personal data from the EEA and Switzer
 12.5. Injunctive Relief. You agree that a breach of this Agreement adversely affecting Licensor's proprietary rights in the Software may cause irreparable injury to Licensor for which monetary damages would not be an adequate remedy and Licensor shall be entitled to seek equitable relief in addition to any remedies it may have hereunder or at law.
 
 
-*** Copyright 2023 TV Zone - MARCIN OSKO ***
+*** Copyright 2023-2025 TV Zone - MARCIN OSKO ***
 All rights reserved. The Software is the copyrighted property of the Licensor and/or its licensors and protected by copyright laws and international intellectual property treaties. Licensor's trademarks and related logos, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of the Licensor and/or its licensors. All other product and service marks contained herein are the trademarks of their respective owners. Any use of the Licensor's or third party trademarks or logos without the prior written consent of the Licensor or the applicable trademark owner is strictly prohibited.
